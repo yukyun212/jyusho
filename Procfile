@@ -1,0 +1,1 @@
+web: gunicorn oioi:app --log-file -
